@@ -85,7 +85,9 @@ flowchart LR
 ## Технологии
 
 **Приложение:** React Native, Expo SDK 58, TypeScript, react-native-svg, d3-geo (планета), expo-audio, expo-image-picker, AsyncStorage
+
 **Сервер:** Python, FastAPI, Google Gemini API, Google Cloud Text-to-Speech, Firestore
+
 **Инфраструктура:** Google Cloud Run, EAS Build (сборка APK), бюджет и оповещения о расходах
 
 ## Что сделала
